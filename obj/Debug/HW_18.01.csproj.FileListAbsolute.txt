@@ -1,0 +1,10 @@
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\bin\Debug\HW_18.01.exe.config
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\bin\Debug\HW_18.01.exe
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\bin\Debug\HW_18.01.pdb
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\obj\Debug\HW_18.01.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\obj\Debug\HW_18._01.Form1.resources
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\obj\Debug\HW_18._01.Properties.Resources.resources
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\obj\Debug\HW_18.01.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\obj\Debug\HW_18.01.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\obj\Debug\HW_18.01.exe
+C:\Users\Администратор\source\repos\ШАГ23\HW_18.01\obj\Debug\HW_18.01.pdb
